@@ -2,73 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8dcd318-526b-4bab-909e-6f9b97ac29e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Scenes/Level 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scenes/Level 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scenes/Level 2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scenes/Level 2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/Ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/Ball.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/BallMaterial.physicsMaterial2D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/BallMaterial.physicsMaterial2D.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/BallMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/BallMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/Basicball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/Basicball.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/LevelsOpen.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/LevelsOpen.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/MainMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/MainMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/Rline2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/Rline2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Ball,tinybkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Ball,tinybkg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Ball.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Blue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Blue.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Close.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Green.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Green.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Level1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Level1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/LevelsPanel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/LevelsPanel.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Line.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Lvel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Lvel2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Lvl1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Lvl1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Panelp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Panelp.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/RightLine,tinybkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/RightLine,tinybkg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Rocket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/Rocket.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/background.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/options.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/options.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/pexels-picmamba-755726.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/pexels-picmamba-755726.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/play.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/quit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/quit.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/rightline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/rightline.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/textbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/UI/textbox.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/background.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sprites/line.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BallMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BallMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BallMovement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MainMenu.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -102,13 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1732547773012</updated>
       <workItem from="1732547774099" duration="141000" />
+      <workItem from="1732801503314" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
